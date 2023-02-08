@@ -5,3 +5,4 @@ git push
 git branch
 git status
 touch echo
+git pull
